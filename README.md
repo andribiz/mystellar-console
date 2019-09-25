@@ -1,7 +1,6 @@
-# mystellar-id 
+# mystellar-id Backend Console 
 
-Stellar Federation address service. Convert your stellar address wallet to an email look like address.
-Convert 
+https://mystellar.id backend console
 
 # Technology stack
 1. NextJS

@@ -1,0 +1,14 @@
+{
+  "name": "mystellar-console",
+  "version": "1.0.0",
+  "description": "Mystellar.id backend console",
+  "main": "index.js",
+  "author": "Bizoft",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
